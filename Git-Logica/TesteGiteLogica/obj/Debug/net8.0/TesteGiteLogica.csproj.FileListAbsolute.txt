@@ -1,0 +1,15 @@
+C:\Users\Eduardo\REPOSITORIOS\DevCsharpRoadmap\Git-Logica\TesteGiteLogica\bin\Debug\net8.0\TesteGiteLogica.exe
+C:\Users\Eduardo\REPOSITORIOS\DevCsharpRoadmap\Git-Logica\TesteGiteLogica\bin\Debug\net8.0\TesteGiteLogica.deps.json
+C:\Users\Eduardo\REPOSITORIOS\DevCsharpRoadmap\Git-Logica\TesteGiteLogica\bin\Debug\net8.0\TesteGiteLogica.runtimeconfig.json
+C:\Users\Eduardo\REPOSITORIOS\DevCsharpRoadmap\Git-Logica\TesteGiteLogica\bin\Debug\net8.0\TesteGiteLogica.dll
+C:\Users\Eduardo\REPOSITORIOS\DevCsharpRoadmap\Git-Logica\TesteGiteLogica\bin\Debug\net8.0\TesteGiteLogica.pdb
+C:\Users\Eduardo\REPOSITORIOS\DevCsharpRoadmap\Git-Logica\TesteGiteLogica\obj\Debug\net8.0\TesteGiteLogica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eduardo\REPOSITORIOS\DevCsharpRoadmap\Git-Logica\TesteGiteLogica\obj\Debug\net8.0\TesteGiteLogica.AssemblyInfoInputs.cache
+C:\Users\Eduardo\REPOSITORIOS\DevCsharpRoadmap\Git-Logica\TesteGiteLogica\obj\Debug\net8.0\TesteGiteLogica.AssemblyInfo.cs
+C:\Users\Eduardo\REPOSITORIOS\DevCsharpRoadmap\Git-Logica\TesteGiteLogica\obj\Debug\net8.0\TesteGiteLogica.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo\REPOSITORIOS\DevCsharpRoadmap\Git-Logica\TesteGiteLogica\obj\Debug\net8.0\TesteGiteLogica.sourcelink.json
+C:\Users\Eduardo\REPOSITORIOS\DevCsharpRoadmap\Git-Logica\TesteGiteLogica\obj\Debug\net8.0\TesteGiteLogica.dll
+C:\Users\Eduardo\REPOSITORIOS\DevCsharpRoadmap\Git-Logica\TesteGiteLogica\obj\Debug\net8.0\refint\TesteGiteLogica.dll
+C:\Users\Eduardo\REPOSITORIOS\DevCsharpRoadmap\Git-Logica\TesteGiteLogica\obj\Debug\net8.0\TesteGiteLogica.pdb
+C:\Users\Eduardo\REPOSITORIOS\DevCsharpRoadmap\Git-Logica\TesteGiteLogica\obj\Debug\net8.0\TesteGiteLogica.genruntimeconfig.cache
+C:\Users\Eduardo\REPOSITORIOS\DevCsharpRoadmap\Git-Logica\TesteGiteLogica\obj\Debug\net8.0\ref\TesteGiteLogica.dll

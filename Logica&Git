@@ -1,6 +1,0 @@
-int A = int.Parse(Console.ReadLine);
-float B = float.Parse(Console.ReadLine);
-int C = A + B * 2;
-int media = (C * 2) / 2;
-
-Console.ReadLine("O valor da media é: " + media); 

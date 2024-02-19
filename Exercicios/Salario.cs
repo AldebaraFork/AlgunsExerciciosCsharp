@@ -4,6 +4,7 @@ public class Class1
 {
 	public Class1()
 	{
+		//Exercicio de Calculo de salario por hora
 		Console.WriteLine("Digite o número de funcionários: ");
 		int Funcionarios = int.parse.Console.ReadLine();
 		Console.WriteLine("Digite o número de horas trabalhadas: ");
@@ -11,6 +12,8 @@ public class Class1
 	    Console.writeLine("Digite o valor da hora trabalhada: ");
 		double ValorHora = double.parse.toString(Console.ReadLine());
         
+
+		// Calculo do salario
 		double Salario = HorasTrabalhadas * ValorHora;
 
 		Console.WriteLine("Número de funcionários: " + Funcionarios);

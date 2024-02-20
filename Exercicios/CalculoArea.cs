@@ -2,10 +2,10 @@
 
 public class Class1
 {
-	public Class1()
-	{ 
+    public Class1()
+    {
         //tipando as variaveis
-		double b, be, h, area
+        double b, be, h, area
 
         //atribuição dos valores
         b = 6.0;

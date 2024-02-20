@@ -2,6 +2,8 @@
 using System.Globalization;
 using System.Runtime.Remoting.Messaging;
 
+//uma dica para quem for usuario de C# principalmente no visual studio: o console.WriteLine voce pode usar cw tab tab que completa para você
+//e o console.ReadLine voce pode usar cr tab tab que completa para você 
 public class Program
 {
     public static void main()

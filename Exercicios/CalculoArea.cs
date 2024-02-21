@@ -3,7 +3,7 @@
 
     public class Area
     {
-        public static void CalculandoArea()
+        public void CalculandoArea()
         {
             //tipando as variaveis
             double b, be, h, area;
